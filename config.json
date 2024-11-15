@@ -1,0 +1,10 @@
+{
+    "db_config": {
+        "host": "localhost",
+        "user": "root",
+        "password": "teste",
+        "database": "vo_ambrozina",
+        "port": 3306
+    },
+    "secret_key":"secret_key_secreta_top_secret"
+}
